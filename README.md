@@ -10,3 +10,4 @@ Libraries used in this project-
 1. Keras
 2. Sklearn
 3. Tinker
+4. Pandas
